@@ -1,0 +1,15 @@
+[
+  {
+	"client_id": "user15",
+    "User-Agent": "Firefox 69",
+	"document.location": "https://shop.com/products/?id=2",
+	"document.referer": "https://referal.ours.com/?ref=123hexcode",
+	"date": "2018-04-03T07:59:13.286000Z"
+  },
+  {
+	"User-Agent": "Firefox 69",
+	"document.location": "https://shop.com/products/id?=2",
+	"document.referer": "https://referal.ours.com/?ref=123hexcode",
+	"date": "2018-04-04T08:30:14.104000Z"
+  }
+]
