@@ -189,3 +189,4 @@ if __name__ == '__main__':
         log_file_path=args.log_file_path,
         ignore_invalid_items=args.ignore_invalid_items,
     )
+
